@@ -1,0 +1,28 @@
+{
+  "name": "schoollinks",
+  "version": "1.0.0",
+  "description": "woah",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "npm run build && npm run dev",
+    "build": "npm run clean && npm run mkdir && npm run build:html && npm run build:css && npm run build:js",
+    "dev": "webpack-dev-server --inline --hot --content-base build --history-api-fallback"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CassidyCamp/SchoolLinks.git"
+  },
+  "keywords": [
+    "Woah"
+  ],
+  "author": "CassidyCamp",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CassidyCamp/SchoolLinks/issues"
+  },
+  "homepage": "https://github.com/CassidyCamp/SchoolLinks#readme",
+  "dependencies": {
+    "eslint": "^8.54.0"
+  }
+}
