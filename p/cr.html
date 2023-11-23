@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../css/theme.css">
+    <meta charset="UTF-8">
+    <meta name="keywords" content="{metaTags}">
+    <meta name="author" content="Brayden Towner/TheDiamondfinderNG, RM">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../scripts/q5.min.js"></script>
+    <!--<script defer src="../scripts/circles.js"></script>-->
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script defer src="../scripts/series_check.js"></script>
+    <title>Chatroom</title>
+</head>
+
+<body>
+    <header>
+        <a href=".." id="home">
+            <img id="home-big" src="../images/vectors/logo.svg"><img id="home-small" src="../images/vectors/icon.svg">
+        </a>
+        <form action="../../search" autocomplete="off"
+            onkeydown="document.getElementById('search-bar').classList.remove('failedSearch');">
+            <input name="search" id="search-bar" class="search-text" type="text" required=""
+                oninvalid="document.getElementById('search-bar').classList.add('failedSearch');">
+
+            <input type="submit" id="submit-search" class="search-button" value="">
+        </form>
+    </header>
+    <main>
+        <div id="game-container">
+            <!--<span class="center">
+                <h5>
+                    <label for="settings">Circle Display:</label>
+                    <select id="settings" name="settings" onchange="changeVal(event)">
+                        <option value="i">Interactive</option>
+                        <option value="s">Static</option>
+                        <option value="n">None</option>
+                    </select>
+                </h5>
+            </span>-->
+            <div id="wgTitle">
+                Chatroom
+            </div>
+            <div id="wgDev">
+                by The Owner Of SchoolLinks<br><br><br>
+            </div> <br>
+            <div id="wgEmbed">
+                <widgetbot
+    server="1176846920661074011"
+    channel="1176846922850517064"
+    width="800"
+    height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+            </div>
+        </div>
+    </main>
+    <footer class="center">
+        <span>
+            <img src="https://www.free-website-hit-counter.com/c.php?d=9&amp;id=131796&amp;s=7" border="0">
+        </span>
+    </footer>
+
+
+</body>
+
+</html>
+
+</html>
