@@ -2885,7 +2885,7 @@
         "description": "A simple driving sidescroller built off of scratch.",
         "siteTags": [
             "HTML5",
-            "platformer",
+            "MadeByAFriendOfMine",
             "2d",
             "1 player",
             "single player"
@@ -4636,6 +4636,41 @@
         },
         "url": "worldswithinworlds",
         "thumbnailURL": "Worlds+Within+Worlds+v1.0+Screen+1.png"
+    },
+    {
+        "name": "year2080",
+        "dispName": "Year 2080",
+        "description": "",
+        "siteTags": [
+            "HTML5",
+            "scratch",
+            "2d",
+            "1 player",
+            "MadeByAFriendOfMine"
+        ],
+        "metaTags": [
+            "math games 66",
+            "mathgames66",
+            "unblocked",
+            "online",
+            "free",
+            "games",
+            "game",
+            "interactive",
+            "HTML5"
+        ],
+        "series": null,
+        "isMobile": false,
+        "creator": "MegaJetz",
+        "uploader": "CakeDaDev",
+        "pageData": {
+            "isFrame": "iframe",
+            "attributes": {
+                "src": "../games/html5/year2080"
+            }
+        },
+        "url": "year2080",
+        "thumbnailURL": "year2080.png"
     },
     {
         "name": "zrist",
