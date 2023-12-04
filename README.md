@@ -1,6 +1,6 @@
 # Unblocked Games Site
 
-Welcome to SchoolLinks! This repository hosts a collection of games that can be played without restrictions. Feel free to explore and enjoy the games.
+Welcome to SchoolLinks! This site hosts a collection of games that can be played without restrictions. Feel free to explore and enjoy the games.
 
 ## How to Use
 
