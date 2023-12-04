@@ -13,7 +13,7 @@ Welcome to SchoolLinks! This repository hosts a collection of games that can be 
 We welcome contributions! If you have unblocked games to add or improvements to suggest, 
 
 - For Improvements You'd Like To Discuss/Suggest Use Github Discussions
-- For Games You'd Like To Add Fill Out [This Google Form](https://forms.gle/iQ2GjVXQKnopM4Dz8)
+- For Games You'd Like To Add Fill Out [This Site Form](https://cassidycamp.work/SchoolLinks/submit.html)
 
 ## Running Games on a Different Desktop
 
