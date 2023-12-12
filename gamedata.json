@@ -3265,15 +3265,15 @@
         "thumbnailURL": "slopegame.jpeg"
     },
     {
-        "name": "snakeio",
-        "dispName": "Snake.io",
+        "name": "slitherio",
+        "dispName": "Year 2080",
         "description": "",
         "siteTags": [
             "HTML5",
-            "fake online multiplayer",
+            "scratch",
             "2d",
-            ".io",
-            "1 player"
+            "1 player",
+            "MadeByAFriendOfMine"
         ],
         "metaTags": [
             "math games 66",
@@ -3287,17 +3287,17 @@
             "HTML5"
         ],
         "series": null,
-        "isMobile": true,
-        "creator": "Best Games",
-        "uploader": "rm",
+        "isMobile": false,
+        "creator": "MegaJetz",
+        "uploader": "CakeDaDev",
         "pageData": {
             "isFrame": "iframe",
             "attributes": {
-                "src": "../games/html5/snakeio"
+                "src": "../games/html5/slitherio"
             }
         },
-        "url": "snakeio",
-        "thumbnailURL": "snake.io.webp"
+        "url": "slitherio",
+        "thumbnailURL": "slitherio.png"
     },
     {
         "name": "spaceiskey",
