@@ -2904,7 +2904,7 @@
         "series": null,
         "isMobile": true,
         "creator": "MegaJetz",
-        "uploader": "CakeDaDev",
+        "uploader": "cassidycamp",
         "pageData": {
             "isFrame": "iframe",
             "attributes": {
@@ -3266,14 +3266,14 @@
     },
     {
         "name": "slitherio",
-        "dispName": "Year 2080",
+        "dispName": "Slither Io",
         "description": "",
         "siteTags": [
             "HTML5",
             "scratch",
             "2d",
             "1 player",
-            "MadeByAFriendOfMine"
+            "Griffpatch"
         ],
         "metaTags": [
             "math games 66",
@@ -3288,8 +3288,8 @@
         ],
         "series": null,
         "isMobile": false,
-        "creator": "MegaJetz",
-        "uploader": "CakeDaDev",
+        "creator": "griffpatch",
+        "uploader": "cassidycamp",
         "pageData": {
             "isFrame": "iframe",
             "attributes": {
@@ -4662,7 +4662,7 @@
         "series": null,
         "isMobile": false,
         "creator": "MegaJetz",
-        "uploader": "CakeDaDev",
+        "uploader": "cassidycamp",
         "pageData": {
             "isFrame": "iframe",
             "attributes": {
