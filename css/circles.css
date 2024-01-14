@@ -9,7 +9,7 @@
 }
 .circles {
   position: absolute;
-  top: 0;
+  top: 60;
   left: 0;
   width: 100%;
   min-height: 400vh !important;
