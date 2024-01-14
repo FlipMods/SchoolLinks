@@ -1,6 +1,6 @@
 "use strict";
 // Modified version of https://www.jsdelivr.com/package/npm/string-similarity-js for comatibility
-// Removing export definitions due to fact global variables 
+// Removing export definitions due to fact global variables
 
 var stringSimilarity = function (str1, str2, substringLength, caseSensitive) {
   if (substringLength === void 0) {
