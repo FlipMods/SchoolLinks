@@ -1,6 +1,4 @@
-# !
-# ! ATTENTION THIS SITE IS NO LONGER BEING WORKED ON PLEASE RESORT TO THE ORIGINAL REPO OF MATHGAMES66
-# !
+
 # Unblocked Games Site
 [![Netlify Status](https://api.netlify.com/api/v1/badges/27aba0a5-3f28-438e-879b-8c8c57ae8e9c/deploy-status)](https://app.netlify.com/sites/slslslslslsl/deploys)
 Welcome to SchoolLinks! This site hosts a collection of games that can be played without restrictions. Feel free to explore and enjoy the games.
