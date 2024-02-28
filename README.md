@@ -40,3 +40,5 @@ We recommend running all your games on a "different desktop" to enhance privacy 
 
 ## Footer
 Happy gaming!
+
+# IF YOU WANT ME TO REMOVE YOUR GAME PLEASE CONTACT ME @ CASSIDY@CASSIDYCAMP.WORK
