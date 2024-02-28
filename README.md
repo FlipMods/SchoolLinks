@@ -5,7 +5,7 @@ Welcome to SchoolLinks! This site hosts a collection of games that can be played
 
 ## How to Use
 
-1. Visit the website: [SchoolLinks](https://cakedadev.github.io/SchoolLinks/)
+1. Visit the website: [SchoolLinks](https://cassidycamp.work/SchoolLinks/)
 2. Browse the game categories or use the search feature to find your favorite games.
 3. Click on a game to start playing.
 
