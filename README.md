@@ -1,3 +1,5 @@
+# This Site Is NOT being actively maintained instead checkout [Mathgames66](https://github.com/mathgames66/mathgames66.github.io) which is updated more often
+--------------------------------------------------
 
 # Unblocked Games Site
 [![Netlify Status](https://api.netlify.com/api/v1/badges/27aba0a5-3f28-438e-879b-8c8c57ae8e9c/deploy-status)](https://app.netlify.com/sites/slslslslslsl/deploys)
